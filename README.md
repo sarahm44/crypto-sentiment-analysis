@@ -12,7 +12,7 @@ I completed the following tasks:
 
 ## Sentiment Analysis
 
-I used the [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+I used the [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and created a DataFrame of sentiment scores for each coin.
 
 ### Questions:
 
