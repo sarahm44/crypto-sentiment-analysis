@@ -96,7 +96,7 @@ See Ethereum word cloud:
 In this section, I built a named entity recognition (NER) model for both coins and visualized the tags using SpaCy.
 
 See Bitcoin NER:
-![](https://github.com/sarahm44/crypto-sentiment-analysis/edit/main/images/btc_ner.png)
+![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/btc_ner.png)
 
 See Ethereum NER:
-![](https://github.com/sarahm44/crypto-sentiment-analysis/edit/main/images/btc_ner.png)
+![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/eth_ner.png)
