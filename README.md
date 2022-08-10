@@ -2,6 +2,18 @@
 
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/sentimental.jpeg)
 
+## Table of Contents
+- [Overview](#overview)
+- [Sentiment Analysis](#sentiment-analysis)
+  * [Bitcoin Sentiment](#bitcoin-sentiment)
+  * [Ethereum Sentiment](#ethereum-sentiment)
+- [Natural Language Processing](#natural-language-processing)
+  * [Tokenize](#tokenize)
+  * [N-grams](#n-grams)
+  * [Word Clouds](#word-clouds)
+  * [Named Entity Recognition](#named-entity-recognition)
+
+
 ## Overview
 
 In this repository I applied natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. I also applied fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
@@ -64,7 +76,7 @@ I then added the "Tokens" column of the tokenized text to the dataframe:
 
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/tokens_df.png)
 
-#### N-grams
+### N-grams
 
 Then I looked at the ngrams and word frequency for each coin.
 
@@ -80,7 +92,7 @@ See below the code and results for the top 10 words for each coin:
 
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/top10.png)
 
-#### Word Clouds
+### Word Clouds
 
 Finally, I generated word clouds for each coin to summarize the news for each coin.
 
@@ -93,7 +105,7 @@ See Ethereum word cloud:
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/eth_cloud.png)
 
 
-## Named Entity Recognition
+### Named Entity Recognition
 
 In this section, I built a named entity recognition (NER) model for both coins and visualized the tags using SpaCy.
 
