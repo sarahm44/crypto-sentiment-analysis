@@ -85,9 +85,11 @@ See below the code and results for the top 10 words for each coin:
 Finally, I generated word clouds for each coin to summarize the news for each coin.
 
 See Bitcoin word cloud:
+
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/btc_cloud.png)
 
 See Ethereum word cloud:
+
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/eth_cloud.png)
 
 
@@ -96,7 +98,9 @@ See Ethereum word cloud:
 In this section, I built a named entity recognition (NER) model for both coins and visualized the tags using SpaCy.
 
 See Bitcoin NER:
+
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/btc_ner.png)
 
 See Ethereum NER:
+
 ![](https://github.com/sarahm44/crypto-sentiment-analysis/blob/main/images/eth_ner.png)
